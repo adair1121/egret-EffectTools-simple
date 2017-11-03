@@ -1,0 +1,4 @@
+{"file":"roleBlood.png","frames":{
+"blood_normal":{"x":0,"y":8,"w":50,"h":6,"offX":0,"offY":0,"sourceW":50,"sourceH":6},
+"blood_normal_bg":{"x":0,"y":0,"w":50,"h":6,"offX":0,"offY":0,"sourceW":50,"sourceH":6},
+"blood_yellow":{"x":0,"y":16,"w":48,"h":4,"offX":0,"offY":0,"sourceW":48,"sourceH":4}}}
